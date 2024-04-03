@@ -3,7 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-b-9b9b751b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://matheusbuenogoes7@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bueno_marmotitu/)
 
 ![Bueno GitHub stats](https://github-readme-stats.vercel.app/api?username=caposss&show_icons=true&theme=tokyonight)
 
